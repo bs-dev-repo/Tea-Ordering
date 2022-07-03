@@ -1,0 +1,29 @@
+Tea Ordering API:
+
+Get All Tea Orders
+
+https://warp-wiry-rugby.glitch.me/orders
+
+Method: GET
+
+Post a New Tea Order
+
+https://warp-wiry-rugby.glitch.me/orders
+
+Method: POST 
+ 
+Body: 
+name: String 
+email: String 
+type: String 
+size: String 
+
+
+Example:
+
+
+Delete All Coffee Orders
+
+https://warp-wiry-rugby.glitch.me/clear-orders
+
+Method: GET
